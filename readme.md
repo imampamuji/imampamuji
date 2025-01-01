@@ -1,11 +1,11 @@
 ## Hi 👋 
    
 <img 
-  src="https://http.cat/images/599.jpg" 
-  alt="functional programming is the right way"
+  src="https://raw.githubusercontent.com/imampamuji/imampamuji/refs/heads/master/cat%20with%20code.webp" 
+  alt="let's exploring code"
   style="margin-top:20px;margin-right:13px"
   align="left" 
-  height="400px"
+  height="300px"
 />
 </a>
 
