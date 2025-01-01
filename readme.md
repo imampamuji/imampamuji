@@ -5,7 +5,7 @@
   alt="let's exploring code"
   style="margin-top:20px;margin-right:13px"
   align="left" 
-  height="=400px"
+  height="=300px"
 />
 </a>
 
