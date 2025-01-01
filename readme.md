@@ -57,4 +57,4 @@ if '__repo__' == '__helpful__':
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imampamuji&show_icons=true&locale=en" alt="imampamuji" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imampamuji&theme=dark" alt="imampamuji" /></p>
+[![GitHub Streak](https://github-readme-streak-stats-seven-beryl.vercel.app?user=imampamuji&theme=catppuccin-latte)](https://git.io/streak-stats)
